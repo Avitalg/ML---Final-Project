@@ -17,5 +17,13 @@ To make this story to a data the algorithm cloud work with, we needed to tranfer
 At first, we change all chars to lower case char. Then we created mapping of unique chars to integers.
 
 ```
-hi
+book_path = "peter_pan.txt"
+r_text = open(book_path).read()
+r_text = r_text.lower()
+chars = sorted(list(set(r_text)))
+char_to_int = dict((c, i) for i, c in enumerate(chars))
 ```
+
+We found this research interesting because it was challenging to use this data and to see how the algorithm learning it and produce a new data according to the old one. This algorithm, if implemented correctly, could help producing more stories and change the face of literature in the world.
+
+
