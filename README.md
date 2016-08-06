@@ -15,7 +15,7 @@ The main issue in working with this kind of data is to transfer text to data tha
 ##Importance 
 We found this research interesting because it was challenging to use this data and to see how the algorithm learning it and produce a new data according to the old one. This algorithm, if implemented correctly, could help producing more stories and change the face of literature in the world.
 
-#Preparations
+##Preparations
 To be able to discover what would be the next sentence, the algorithm need to "understand" the story, in such way that will alךow it to create data that make sence. 
 
 To make this story to a data the algorithm cloud work with, we needed to tranfer the data to workalble data.
