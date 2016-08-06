@@ -1,4 +1,4 @@
-# Small LSTM Network to Generate Text for Alice in Wonderland
+
 import numpy
 from keras.models import Sequential
 from keras.layers import Dense
