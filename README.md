@@ -16,6 +16,6 @@ To be able to discover what would be the next sentence, the algorithm need to "u
 To make this story to a data the algorithm cloud work with, we needed to tranfer the data to workalble data.
 At first, we change all chars to lower case char. Then we created mapping of unique chars to integers.
 
-'''
+```
 hi
-'''
+```
