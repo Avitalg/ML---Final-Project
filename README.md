@@ -57,6 +57,19 @@ callbacks_list = [checkpoint]
 model.fit(X, y, nb_epoch=20, batch_size=128, callbacks=callbacks_list)
 ```
 
+Generate the new sentence 
+```
+for i in range(1000):
+	x = numpy.reshape(pattern, (1, len(pattern), 1))
+	x = x / float(num_vocab)
+	prediction = model.predict(x, verbose=0)
+	index = numpy.argmax(prediction)
+	result = int_into_char[index]
+	seq_in = [int_into_char[value] for value in pattern]
+	sys.stdout.write(result)
+	pattern.append(index)
+	pattern = pattern[1:len(pattern)]
+```
 
 
 
