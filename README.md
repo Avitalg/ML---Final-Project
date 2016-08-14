@@ -98,7 +98,7 @@ We ran the code number of times and the results we've got are written bellow:
 
 `of the boos of the boos of the boos of the boos afd the nererland thet thet whre hev back on the barkn of the bors.`
 
-As you can see, not all the words make sence ("eer", "ale" , "bors", "hev" etc.). We got a success rate of 16%-30%, according to min-hash algorithm. You can see the result bellow:
+As you can see, not all the words make sence ("eer", "ale" , "bors", "hev" etc.). We got a success rate of 15%-30%, according to min-hash algorithm. You can see the result bellow:
 
 minhash result:
 + 0.22580645161290322
