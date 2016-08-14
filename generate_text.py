@@ -36,7 +36,7 @@ model = Sequential()
 model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2])))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
-network_weights = "weights-improvement-02-2.9030.hdf5"
+network_weights = "weights-improvement-19-2.0474.hdf5"
 model.load_weights(network_weights)
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 start = numpy.random.randint(0, len(dataX)-1)
