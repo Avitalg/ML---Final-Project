@@ -100,6 +100,8 @@ We ran the code number of times and the results we've got are written bellow:
 
 As you can see, not all the words make sence ("eer", "ale" , "bors", "hev" etc.). We got a success rate of 15%-30%, according to min-hash algorithm. You can see the result bellow:
 
+![success_rate](https://i.imgsafe.org/0ca563cb49.png)
+
 minhash result:
 + 0.22580645161290322
 + 0.26666666666666666
@@ -111,3 +113,4 @@ minhash result:
 + 0.25
 + 0.20689655172413793
 + 0.16666666666666666
+
