@@ -74,4 +74,20 @@ for i in range(1000):
 ```
 
 ##Result
+```
+" iar about it, but by and by he remembered that it had not been ticking. at first he thought this eer",
+"e ale the boys wfre she lad boen to the boos of the boos, and they were al anr oo the bark of the bark",
+" of the boos of the boos afd the nererland thet thet whre hev back on the barkn of the bors. and",
+" they were al anr oo the bark of the bark of the boos of the boos of the boos of the boos",
+" afd the nererland thet thet whre hev back on the barkn of the bors.",
+" and they were al anr oo the bark of the bark of the boos of the boos of the boos of the boos afd the nererland thet",
+" thet whre hev back on the barkn of the bors. and they were al anr oo the bark of the bark of",
+" the boos of the boos of the boos of the boos afd the nererland thet thet whre hev back on the ",
+" barkn of the bors. and they were al anr oo the bark of the bark of the boos of the boos of the boos of the",
+" boos afd the nererland thet thet whre hev back on the barkn of the bors. and they were al anr oo the bark of the bark ",
+" of the boos of the boos of the boos of the boos afd the nererland thet thet whre hev back on the barkn of the bors."
 
+```
+
+minhash result:
+[0.22580645161290322, 0.26666666666666666, 0.20833333333333334, 0.22727272727272727, 0.17391304347826086, 0.24, 0.23076923076923078, 0.18181818181818182, 0.25, 0.20689655172413793, 0.16666666666666666]
