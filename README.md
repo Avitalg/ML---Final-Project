@@ -98,7 +98,8 @@ We ran the code number of times and the results we've got are written bellow:
 
 `of the boos of the boos of the boos of the boos afd the nererland thet thet whre hev back on the barkn of the bors.`
 
-As you can see, not all the words make sence ("eer", "ale" , "bors", "hev" etc.). We got a success rate of 15%-30%, according to min-hash algorithm. You can see the success rate bellow:
+As you can see, not all the words make sence ("eer", "ale" , "bors", "hev" etc.). 
+We got a success rate of 15%-30%, according to min-hash algorithm. You can see The distribution of results down bellow:
 
 ![success_rate](https://i.imgsafe.org/0ca563cb49.png)
 
